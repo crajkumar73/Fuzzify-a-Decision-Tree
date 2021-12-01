@@ -1,5 +1,5 @@
 
-# Topic 5 Assignment: Decision Tree
+# Topic 5 Assignment: Decision Trees
 
 This topic is an in-depth study of the concept of classification and regression-based learning models. Students will learn how to build complex predictive models, building blocks for more sophisticated learning models covered later in this course.
 Objectives:
